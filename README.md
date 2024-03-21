@@ -41,6 +41,22 @@ The dataset includes information about several movies, such as their ID, synopsi
 The dataset contains information about several movies, including their genre IDs, original language, original title, popularity, release date, title, vote average, and vote count. Each row represents a different movie, with details such as the movie's genre IDs, language, popularity score, release date, title, and voting statistics. The genre IDs indicate the genres associated with each movie, while the original language denotes the language in which the movie was originally produced. Other attributes such as popularity, release date, and voting statistics provide insights into the movie's reception and audience engagement. This dataset can be analyzed to understand trends in movie genres, popularity, and audience preferences over time.
 
 ## Visualizations
-![Screenshot](scatterplot.png)
+
+![scatterplot](https://github.com/Iankip8/dsc-phase-1-project-v2-4/assets/160301660/4c85709a-9cde-4bff-ac1b-354a4358fb5c)
 
 The plot reveals a correlation between the total pay received and the number of films produced by studios. This suggests that as the number of films produced increases, there is a corresponding rise in total pay.
+
+
+![MovieRating](https://github.com/Iankip8/dsc-phase-1-project-v2-4/assets/160301660/a11a7928-baa4-438b-8e4e-13357b861b10)
+
+The box plot provides insights into the distribution of movie runtimes across different rating categories. It reveals the central tendency, variability, and presence of outliers within each rating category
+
+![Popularityovertime](https://github.com/Iankip8/dsc-phase-1-project-v2-4/assets/160301660/47f17f47-cca6-46a2-9c10-dc25a8680311)
+
+The plotted graph illustrates a fluctuating pattern, revealing the evolution of average popularity across various years of film releases. As the timeline progresses, the trend of average popularity demonstrates both peaks and troughs, suggesting dynamic shifts in audience interest over time. This visual representation provides insights into the changing landscape of popularity within the film industry across different release years.
+
+![Majorgenre](https://github.com/Iankip8/dsc-phase-1-project-v2-4/assets/160301660/43d8de12-1449-4a3a-9fe9-b71d4dbdc516)
+
+The plot illustrates the popularity of the top  movies across major genres. Each bar represents a genre, and its height indicates the popularity of the corresponding movies within that genre. The y-axis represents the popularity score, while the x-axis shows the major genres. This visualization allows the company to identify which genres are most popular among audiences, providing valuable insights for decision-making in film production and marketing strategies.
+
+
